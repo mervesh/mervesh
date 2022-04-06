@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mervesh
-- 👀 I’m interested in MERVE
+- 👀 I’m interested in SF
 - 🌱 I’m currently learning SF Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mervesezer93@gmail.com
