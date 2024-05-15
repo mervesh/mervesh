@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mervesh
-- 👀 QA Automation Test Engineer Loading... 
+- 👀 QA Automation Test Engineer 
 - 📫 How to reach me mervesezer93@gmail.com
 
 <!---
